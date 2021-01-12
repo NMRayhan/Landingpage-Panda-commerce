@@ -5,3 +5,17 @@
     padding: 0;
     margin: 0;
 }
+.slide-unit{
+    width: 90%;
+    height: auto;
+}
+.slide-unit img{
+    width: 30%;
+}
+.slider-round{
+    border-radius: 20px;
+    margin-top: 100px;
+}
+.slide-details{
+    width: 70%;
+}
